@@ -9,5 +9,8 @@ area = 𝜋 × radius 2
 radius = 2.5
 pi = 3.14159
 
+#Formula
 area_circle = pi * radius**2
+
+#Printing
 print(area_circle)

@@ -8,12 +8,13 @@ Calculate and print the sum, difference, product, and quotient of these two numb
 a = 4
 b = 7
 
+#Formula
 sum = a + b
 difference = a- b
 product = a * b
 quotient = a / b
 
-#printing
+#Printing
 print(f"""The result is:
 Sum: {sum}
 Difference: {difference}
